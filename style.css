@@ -145,9 +145,8 @@ html, body{
   }
 
   #donut {
-    width: 100%;
-    height: auto;
-    /* animation: rotation 200s linear infinite; */
+    width: 259px;
+    height: 236px;
   } 
 
   @keyframes rotation {
