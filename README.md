@@ -1,6 +1,6 @@
 # ~~🍪 cookie-clicker 🍪~~ **NO** [🍩 Donut-clicker 🍩](https://marinevh.github.io/cookie-clicker/ "Donut-Clicker") 🤤
 
-![desktop](cookie-clicker/img/desktop.png)
+![desktop](img/desktop.png)
 
 ## _Contexte :_
 
@@ -20,11 +20,11 @@ Ce genre de jeu, ça appartient à la catégorie des "idle games", c'est-à-dire
 
 ## _Code :_
 
-- [![HTML](cookie-clicker/img/html.webp)](https://github.com/MarineVH/cookie-clicker/blob/main/cookie-clicker/index.html "GitHub")
+- [![HTML](cookie-clicker/img/html.webp)](https://github.com/MarineVH/cookie-clicker/blob/main/index.html "GitHub")
 
-- [![CSS](cookie-clicker/img/css.webp)](https://github.com/MarineVH/cookie-clicker/blob/main/cookie-clicker/style.css "GitHub")
+- [![CSS](cookie-clicker/img/css.webp)](https://github.com/MarineVH/cookie-clicker/blob/main/style.css "GitHub")
 
-- [![JavaScript](cookie-clicker/img/js.webp)](https://github.com/MarineVH/cookie-clicker/blob/main/cookie-clicker/main.js "GitHub")
+- [![JavaScript](cookie-clicker/img/js.webp)](https://github.com/MarineVH/cookie-clicker/blob/main/main.js "GitHub")
 
 
 ## _Consignes :_
@@ -97,4 +97,4 @@ Nous avons decidé de faire un **Donut Clicker** 🍩🍩🍩
 
 **Version Mobile :**
 
-![mobile](cookie-clicker/img/mobile.png)
+![mobile](img/mobile.png)
