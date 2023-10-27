@@ -2,6 +2,14 @@
 
 ![desktop](img/desktop.png)
 
+## _Version test :_
+
+https://github.com/MarineVH/cookie-clicker-test
+
+## _Version live :_
+
+https://marinevh.github.io/cookie-clicker/
+
 ## _Contexte :_
 
 Ce projet de **Coockie Clicker** est réalisé dans le cadre de la formation de **Web-Developper-Junior** chez [BeCode](https://becode.org/all-trainings/pedagogical-framework-junior-developer/ "BeCode"), selection **Swartz-8**.
