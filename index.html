@@ -41,7 +41,7 @@
         <p id="result">Votre score est de : <span id="score">0</span></p>
 
         <div id="img-resp">
-          <img id="donut" src="img/Donut_DALL_E_.webp" alt="Donut">
+          <img id="donut" src="img/Donut_DALL_E_.webp" alt="Donut" fetchpriority="high">
         </div>
 
         <div id="setup">
@@ -60,7 +60,7 @@
             <source src="gnork-party-improved-171719.mp3" type="audio/mpeg">
           </audio>
           <!--<button id="btn-stop" onclick="stopMusic()" aria-label="Arrêter la musique">Arrêter la musique</button>-->
-          <input id="volumeControl" type="range" min="0" max="1" step="0.01" value="0.6" aria-label="Contrôle du volume">
+          <input id="volumeControl" type="range" min="0" max="1" step="0.01" value="0.6" aria-label="Contrôle du volume" style="max-width: 100px;">
         </div>
 
         <div id="cookieModal" class="modal">
@@ -72,7 +72,7 @@
           </div>
         </div>
 
-        <footer>
+        <footer fetchpriority="low">
           <hr>
           <p id="name">By <a href="https://github.com/MarineVH" title="GitHub">Marine</a>, <a
           href="https://github.com/AudriusGrebliunas" title="GitHub">Audrius</a>, <a href="https://github.com/cebe0210"
