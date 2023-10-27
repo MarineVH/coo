@@ -1,7 +1,6 @@
-# ~~🍪 cookie-clicker 🍪~~ **NO** [🍩 Donut-clicker 🍩](https://marinevh.github.io/cookie-clicker/cookie-clicker/ "Donut-Clicker") 🤤
+# ~~🍪 cookie-clicker 🍪~~ **NO** [🍩 Donut-clicker 🍩](https://marinevh.github.io/cookie-clicker/ "Donut-Clicker") 🤤
 
-![desktop](cookie-clicker/img/desktop.png
-)
+![desktop](cookie-clicker/img/desktop.png)
 
 ## _Contexte :_
 
