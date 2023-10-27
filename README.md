@@ -20,11 +20,11 @@ Ce genre de jeu, ça appartient à la catégorie des "idle games", c'est-à-dire
 
 ## _Code :_
 
-- [![HTML](cookie-clicker/img/html.webp)](https://github.com/MarineVH/cookie-clicker/blob/main/index.html "GitHub")
+- [![HTML](img/html.webp)](https://github.com/MarineVH/cookie-clicker/blob/main/index.html "GitHub")
 
-- [![CSS](cookie-clicker/img/css.webp)](https://github.com/MarineVH/cookie-clicker/blob/main/style.css "GitHub")
+- [![CSS](img/css.webp)](https://github.com/MarineVH/cookie-clicker/blob/main/style.css "GitHub")
 
-- [![JavaScript](cookie-clicker/img/js.webp)](https://github.com/MarineVH/cookie-clicker/blob/main/main.js "GitHub")
+- [![JavaScript](img/js.webp)](https://github.com/MarineVH/cookie-clicker/blob/main/main.js "GitHub")
 
 
 ## _Consignes :_
