@@ -14,11 +14,9 @@ https://marinevh.github.io/cookie-clicker/
 
 Ce projet de **Coockie Clicker** est réalisé dans le cadre de la formation de **Web-Developper-Junior** chez [BeCode](https://becode.org/all-trainings/pedagogical-framework-junior-developer/ "BeCode"), selection **Swartz-8**.
 
-## _Equipe :_
+## _Auteur :_
 
-- ***[Marine](https://github.com/MarineVH "GitHub")*** : Project-Manager 👩‍💻 / Patronne de la **Patisserie** 👩‍🍳
-- ***[Audrius](https://github.com/AudriusGrebliunas "GitHub")*** : Back-End dev 👨‍💻 / Le patissier qui a fait la pâte 👨‍🍳
-- ***[Cédric](https://github.com/cebe0210 "GitHub")*** : Front-End Dev 🧑‍💻 / Le patissier qui a mis le nappage 🧑‍🍳
+- ***[Marine](https://github.com/MarineVH "GitHub")*** 
 
 ## _Mais qu'est-ce qu'un **cookie-clicker**?_
 
